@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+.form {
+    display: flex;
+    top: 50%;
+    width: 100%;
+    font-size: 18px;
+    justify-content: center;
+    padding: 200px;
+  }
+  .mb-3 {
+    color: aqua;
+  }
+  .text-muted>form{
+    color: aqua;
+  }

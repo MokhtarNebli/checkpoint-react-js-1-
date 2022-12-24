@@ -1,17 +1,28 @@
 *{
     background-color: black;
 }
-.form {
+.form-2 {
     display: flex;
-    top: 50%;
     width: 100%;
     font-size: 18px;
     justify-content: center;
-    padding: 200px;
-  }
-  .mb-3 {
-    color: aqua;
-  }
-  .text-muted>form{
-    color: aqua;
-  }
+    text-align: center;
+color: white;
+    
+}
+.form-1 {
+  display: flex;
+  width: 100%;
+  font-size: 18px;
+  justify-content: center;
+  text-align: center ;
+  color: white;
+}
+.pic {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+}
